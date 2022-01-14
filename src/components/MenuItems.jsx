@@ -35,6 +35,9 @@ function MenuItems() {
       <Menu.Item key="/salientyachtsnft">
         <NavLink to="/salientyachtsnft">⛵ Salient Yachts</NavLink>
       </Menu.Item>
+      <Menu.Item key="/salientyachtrewards">
+        <NavLink to="/salientyachtrewards">💰 Salient Rewards</NavLink>
+      </Menu.Item>
       <Menu.Item key="/erc20balance">
         <NavLink to="/erc20balance">💰 Balances</NavLink>
       </Menu.Item>
